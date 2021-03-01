@@ -1,0 +1,12 @@
+{
+  "name": "Simulator",
+  "entry": "main.js",
+  "isLandscape": true,
+  "isWindowTop": false,
+  "waitForConnect": true,
+  "width": 375,
+  "height": 667,
+  "consolePort": 6050,
+  "uploadPort": 6060,
+  "debugPort": 5086
+}

@@ -1,0 +1,26 @@
+{
+  "name": "main",
+  "deps": [],
+  "uuids": [
+    "21472705-eeda-4479-960c-68bca1b49253",
+    "e96d6ae0-6179-4ac3-8969-a9b662fb0e9c",
+    "fd8ec536-a354-4a17-9c74-4f3883c378c8"
+  ],
+  "paths": {
+    "fd8ec536-a354-4a17-9c74-4f3883c378c8": [
+      "db:/internal/default_renderpipeline/builtin-forward",
+      "cc.RenderPipeline"
+    ]
+  },
+  "scenes": {
+    "db://assets/scene/login.scene": "21472705-eeda-4479-960c-68bca1b49253",
+    "db://assets/scene/main.scene": "e96d6ae0-6179-4ac3-8969-a9b662fb0e9c"
+  },
+  "packs": {},
+  "versions": {
+    "import": [],
+    "native": []
+  },
+  "redirect": [],
+  "debug": true
+}
